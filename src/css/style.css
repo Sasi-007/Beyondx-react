@@ -1,0 +1,438 @@
+.container {
+	margin-left: 43px;
+	margin-top: 40px;
+	margin-right: 43px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header-left {
+	float: left;
+	width: 50%;
+}
+
+.header-right {
+	float: right;
+	width: 50%;
+	padding-top: 4mm;
+}
+
+.header-right a {
+	text-decoration: none;
+	color: black;
+}
+
+span.header1 {
+	position: relative;
+	left: 28px;
+	top: 5px;
+}
+
+span.header2 {
+	position: relative;
+	left: 148px;
+	top: 5px;
+}
+
+.header-right button {
+	background: linear-gradient(0.25turn, #F07229, #F2752D, #F2762E, #F47A33, #F57E37, #F6813A, #F7843D, #F8863F, #FA8A43, #FB8E47, #FC924B, #FE9650, #FF9953);
+	color: white;
+	border: none;
+	border-radius: 95px;
+	width: 150px;
+	height: 35px;
+	font-size: medium;
+	float: right;
+}
+
+.section0 {
+	float: left;
+	width: 100%;
+}
+
+.section0-left {
+	float: left;
+	width: 50%;
+	position: relative;
+	top: 117px;
+}
+
+.section0-right {
+	float: right;
+	width: 50%;
+	position: relative;
+	top: 76px;
+}
+
+span.head {
+	font-size: 18px;
+}
+
+span.heading {
+	font-weight: 300;
+	font-size: 48px;
+}
+
+.section0-left button {
+	background: linear-gradient(0.25turn, #F07229, #F2752D, #F2762E, #F47A33, #F57E37, #F6813A, #F7843D, #F8863F, #FA8A43, #FB8E47, #FC924B, #FE9650, #FF9953);
+	color: white;
+	border: none;
+	border-radius: 95px;
+	width: 217px;
+	height: 35px;
+	font-size: medium;
+	font-weight: 700;
+}
+
+.responsive {
+	max-width: 100%;
+	height: auto;
+}
+
+.section1 {
+	width: 100%;
+	float: left;
+	top: 260px;
+	position: relative;
+	text-align: center;
+}
+
+.list-buttons {
+	float: left;
+	width: 100%;
+}
+
+ul.unordered-buttons {
+	list-style: none;
+}
+
+.button1,
+.button2,
+.button3,
+.button4,
+.button5 {
+	float: left;
+	width: 19%;
+	text-align: center;
+	height: 200px;
+}
+
+.button1 img {
+	padding-top: 27px;
+}
+
+.button2 img {
+	padding-top: 27px;
+}
+
+.button3 img {
+	padding-top: 27px;
+}
+
+.button4 img {
+	padding-top: 27px;
+}
+
+.button5 img {
+	padding-top: 27px;
+}
+
+h4 {
+	font-weight: 500;
+}
+
+.button1 p {
+	font-weight: 300;
+	font-size: 12px;
+}
+
+.button2 p {
+	font-weight: 300;
+	font-size: 12px;
+}
+
+.button3 p {
+	font-weight: 300;
+	font-size: 12px;
+}
+
+.button4 p {
+	font-weight: 300;
+	font-size: 12px;
+}
+
+.button5 p {
+	font-weight: 300;
+	font-size: 12px;
+}
+
+.button1:hover {
+	box-shadow: 2px 8px 8px 2px rgba(0, 0, 0, 0.2), 0 20px 40px 0 rgba(0, 0, 0, 0.19);
+	border-bottom: 3px solid #F07229;
+}
+
+.button2:hover {
+	box-shadow: 2px 8px 8px 2px rgba(0, 0, 0, 0.2), 0 20px 40px 0 rgba(0, 0, 0, 0.19);
+	border-bottom: 3px solid #F07229;
+}
+
+.button3:hover {
+	box-shadow: 2px 8px 8px 2px rgba(0, 0, 0, 0.2), 0 20px 40px 0 rgba(0, 0, 0, 0.19);
+	border-bottom: 3px solid #F07229;
+}
+
+.button4:hover {
+	box-shadow: 2px 8px 8px 2px rgba(0, 0, 0, 0.2), 0 20px 40px 0 rgba(0, 0, 0, 0.19);
+	border-bottom: 3px solid #F07229;
+}
+
+.button5:hover {
+	box-shadow: 2px 8px 8px 2px rgba(0, 0, 0, 0.2), 0 20px 40px 0 rgba(0, 0, 0, 0.19);
+	border-bottom: 3px solid #F07229;
+}
+
+.section2 {
+	float: left;
+	width: 100%;
+	position: relative;
+	top: 367px;
+}
+
+.section2-left {
+	float: left;
+	width: 50%;
+}
+
+.section2-right {
+	float: right;
+	width: 50%;
+}
+
+p.p1 {
+	font-size: 32px;
+}
+
+p.p2 {
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 55px;
+	width: 481px;
+}
+
+.section-1-2-wrapper {
+	width: 100%;
+	float: left;
+}
+
+.section3 {
+	width: 100%;
+	float: left;
+	background-color: #F7F7F7;
+	position: relative;
+	top: 580px;
+	height: 379px;
+}
+
+.heading-3 {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+.heading-3>p {
+	font-size: 32px;
+}
+
+.sub-heading-3 {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+.sub-heading-3>p {
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.images-3 {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+.section4 {
+	position: relative;
+	top: 780px;
+}
+
+.heading-4>p {
+	font-size: 32px;
+}
+
+.quotes-4>p {
+	font-size: 18px;
+}
+
+#myProgress {
+	width: 298px;
+	background-color: #F5F5F5;
+	border-radius: 38px;
+	position: relative;
+	left: 413px;
+}
+
+#myBar {
+	width: 14%;
+	height: 8px;
+	background: linear-gradient(0.25turn, #F07229, #F2752D, #F2762E, #F47A33, #F57E37, #F6813A, #F7843D, #F8863F, #FA8A43, #FB8E47, #FC924B, #FE9650, #FF9953);
+	border-radius: 30px;
+}
+
+.section5 {
+	background-color: #F07229;
+	position: relative;
+	top: 3015px;
+	height: 242px;
+}
+
+.section5-heading {
+	float: left;
+	width: 100%;
+	text-align: center;
+	position: relative;
+	bottom: 2038px;
+}
+
+.section5-heading>p {
+	color: white;
+	text-align: center;
+	font-size: 32px;
+}
+
+.section5-btn {
+	position: relative;
+	bottom: 2028px;
+	right: 466px;
+}
+
+.section5-btn>button {
+	background: white;
+	color: #F07229;
+	border: none;
+	border-radius: 95px;
+	width: 150px;
+	height: 35px;
+	font-size: medium;
+	float: right;
+}
+
+.footer {
+	float: left;
+	width: 100%;
+	background-color: #131F6B;
+	height: 433px;
+	position: relative;
+	top: 1038px;
+}
+
+.footer0 {
+	float: left;
+	width: 100%;
+	padding-top: 100px;
+}
+
+.footer0-1 {
+	float: left;
+	width: 28.3%;
+}
+
+.footer0-1>p {
+	color: #FDFDFE;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 25px;
+}
+
+.footer0-2 {
+	float: left;
+	width: 35.85%;
+	color: #FDFDFE;
+	padding: 7px 0px 0px 115px;
+}
+
+.footer0-2-head {
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.footer0-3 {
+	float: right;
+	width: 24.85%;
+	padding: 7px 0px 0px 0px;
+	color: #FDFDFE;
+}
+
+.footer0-3-head {
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.footer0-2-l1 {
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.footer0-2-l2 {
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.footer0-2-l3 {
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.footer0-2-l4 {
+	font-size: 12px;
+	font-weight: 400;
+}
+
+button.i-1 {
+	border-radius: 100%;
+	width: 31px;
+	border: none;
+	height: 29px;
+	font-size: 19px;
+}
+
+button.i-2 {
+	border-radius: 100%;
+	width: 31px;
+	border: none;
+	height: 29px;
+	font-size: 19px;
+}
+
+button.i-3 {
+	border-radius: 100%;
+	width: 31px;
+	border: none;
+	height: 29px;
+	font-size: 19px;
+}
+
+button.i-4 {
+	border-radius: 100%;
+	width: 31px;
+	border: none;
+	height: 29px;
+	font-size: 19px;
+}
+
+.footer1 {
+	float: left;
+	width: 100%;
+	color: #FDFDFE;
+	position: relative;
+	top: 81px;
+	padding-top: 20px;
+}
